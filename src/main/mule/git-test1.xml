@@ -3,9 +3,9 @@
 <mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
-	<flow name="git-testFlow" doc:id="41383abb-d4e6-44a3-981d-9287f2c092dc" >
+	<flow name="git-test1Flow" doc:id="41383abb-d4e6-44a3-981d-9287f2c092dc" >
 
-		<logger level="INFO" doc:name="Logger" doc:id="15a7d3f8-df41-4c7a-ae20-c77beaf0d42d" message="Test 11"/>
+		<logger level="INFO" doc:name="Logger" doc:id="15a7d3f8-df41-4c7a-ae20-c77beaf0d42d" message="Test 2"/>
 
 	</flow>
 </mule>
